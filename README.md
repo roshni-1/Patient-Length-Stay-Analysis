@@ -43,10 +43,13 @@ This project aims to predict the duration of hospital stays for patients based o
 - `predicted_stay.csv`: CSV file containing predicted 'Stay' values for the test dataset.
 
 ## Visualizations
-!(https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa1.png)
-!(https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa2.png)
-!(https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa3.png)
-!(https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa4.png)
+![Image 1](https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa1.png)
+
+![Image 2](https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa2.png)
+
+![Image 3](https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa3.png)
+
+![Image 4](https://github.com/roshni-1/Patient-Length-Stay-Analysis/blob/main/plsa4.png)
 
 ## Requirements
 - Python 3.x
