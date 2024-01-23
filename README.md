@@ -15,7 +15,7 @@ This project aims to predict the duration of hospital stays for patients based o
 
 2. **Exploratory Data Analysis (EDA):**
    - Checking for missing values, exploring data distributions, and analysing feature correlations.
-   - - Handling missing values.
+      - Handling missing values.
    - Peforming data cleaning and preprocessing.
 
 3. **Data Preprocessing:**
